@@ -1,0 +1,30 @@
+.circle {
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 15px;
+    line-height: 60px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    font-weight: 200;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    transition: background 500ms;
+}
+.red {
+    background: red ;
+    margin-left: 40px;
+}
+.green {
+    background: green ;
+    margin-left: 100px;
+}
+.blue {
+    background: blue ;
+    margin-left: 160px;
+}
+.yellow {
+    background: yellow ;
+    margin-left: 220px;
+}
